@@ -1,0 +1,23 @@
+###########################################
+# Syntax Coloring Map For LCD_Keypad_Menu
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+LCD_Keypad_Menu	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+resettingKeys2	KEYWORD2
+resettingKeys3	KEYWORD2
+resettingKeys4	KEYWORD2
+scrollingText	KEYWORD2
+oneStaticLine	KEYWORD2
+twoStaticLines	KEYWORD2
+
+###########################################
+# Constants (LITERAL1)
+###########################################
