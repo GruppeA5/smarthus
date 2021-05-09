@@ -2,6 +2,7 @@
 Codes to smarthouse
 
 Bruker bibliotekene
+- analogWrite
 - SPI
 - MFRC522
 - Keypad
