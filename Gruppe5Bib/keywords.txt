@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For SmartHome
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+Gruppe5Bib	KEYWORD1
+
+#######################################
+# Metoder og funksjoner (KEYWORD2)
+#######################################
+
+# SmartHome     Class
+tempAverage	KEYWORD2
+LED_Average	KEYWORD2
+LED_controll	KEYWORD2
+controll	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
