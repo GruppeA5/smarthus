@@ -14,5 +14,8 @@ Bruker bibliotekene
 - Tone32
 - pitches
 
-Videolink
+
+
+
+Videopresentasjon link
 https://www.youtube.com/watch?v=il-PrGZbtSo
