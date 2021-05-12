@@ -13,3 +13,6 @@ Bruker bibliotekene
 - WiFi
 - Tone32
 - pitches
+
+Videolink
+https://www.youtube.com/watch?v=il-PrGZbtSo
